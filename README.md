@@ -2,6 +2,8 @@
 
 # OCR Insurance ID Classifier
 
+**Project senario:**
+
 DigiNsure Inc. is digitizing historical insurance claim documents to improve the efficiency of claims processing and customer service. This project implements a multi-modal deep learning pipeline that uses both **scanned ID images** and **insurance type metadata** to classify insurance IDs as either **primary** or **secondary**.
 
 ---
